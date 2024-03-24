@@ -4,3 +4,5 @@ The Diabetes prediction dataset is a collection of medical and demographic data 
 Electronic Health Records (EHRs) are the primary source of data for the Diabetes Prediction dataset. The data can be downloaded from [Kaggle](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data).
 
 Project author: Tatyana Gladysheva
+
+Try service [here](https://diabetes-dataset.streamlit.app/) :)
