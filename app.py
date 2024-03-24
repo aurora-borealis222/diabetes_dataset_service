@@ -22,7 +22,7 @@ diabetes = st.sidebar.checkbox('**Diabetes**')
 
 gender = st.sidebar.multiselect(
     'Gender',
-    df['gender'].unique(),
+    ['Female', 'Male'],
     'Female'
 )
 
